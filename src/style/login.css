@@ -1,0 +1,8 @@
+.textpassword:focus {
+    outline-color: "#004d40";
+}
+
+.papper {
+    background: rgb(255,248,39);
+    background: radial-gradient(circle, rgba(255,248,39,1) 5%, rgba(247,131,10,0.7497199563419117) 74%); 
+}
